@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../My-first-website"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "Milestone 1 Project"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
